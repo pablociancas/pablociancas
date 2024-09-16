@@ -9,8 +9,7 @@ Mi nombre es pablo Ciancas soy estudiante de segundo año de ASIR en la [UTAD](h
  
  [Aqui dejo un link sobre mi curricumum completom](https://www.linkedin.com/in/pablo-ciancas-7b8a35294/)
  
-![Texto alternativo](https://i.blogs.es/5d9d03/3891532114_f6cb664e36/450_1000.webp](https://www.xlsemanal.com/wp-content/uploads/sites/3/2018/07/ornitorrinco-768x506.jpg )
-
+![Texto alternativo](https://www.xlsemanal.com/wp-content/uploads/sites/3/2018/07/ornitorrinco-768x506.jpg )
 
 
 
