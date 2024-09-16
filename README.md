@@ -1,6 +1,6 @@
 # Sobre mi 
 
- [Link sobre mi curriculum] (https://www.linkedin.com/in/pablo-ciancas-7b8a35294/)
+ [Link sobre mi curriculum] : (https://www.linkedin.com/in/pablo-ciancas-7b8a35294/)
  
  
  
