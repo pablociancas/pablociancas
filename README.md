@@ -1,7 +1,14 @@
+# Sobre mi 
 
-
-<!--
-**pablociancas/pablociancas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [Link sobre mi curriculum] (https://www.linkedin.com/in/pablo-ciancas-7b8a35294/)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
