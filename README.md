@@ -12,3 +12,11 @@ Mi nombre es pablo Ciancas soy estudiante de segundo año de ASIR en la [UTAD](h
 
 Mi animal favoritos es el ornitorrinco 🌱
 ![Texto alternativo](https://www.xlsemanal.com/wp-content/uploads/sites/3/2018/07/ornitorrinco-768x506.jpg )
+
+| Habilidad             | Descripción                          | Nivel   |
+|-----------------------|--------------------------------------|---------|
+| Ingles   | Capaz de entender conversaciones    | B2      |
+| Frances      | me puedo defender  | B1      |
+
+
+
