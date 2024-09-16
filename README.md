@@ -1,7 +1,7 @@
 # Sobre mi 
 Mi nombre es pablo Ciancas soy estudiante de segundo año de ASIR en la [UTAD](https://u-tad.com/)
 
-###Tengo experiencia en diferentes 
+### Tengo experiencia en diferentes 
  [Link sobre mi curriculum](https://www.linkedin.com/in/pablo-ciancas-7b8a35294/)
  - Catering el Senecal 
     - Servico mesa
