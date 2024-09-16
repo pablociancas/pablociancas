@@ -1,19 +1,15 @@
 # Sobre mi 
 Mi nombre es pablo Ciancas soy estudiante de segundo año de ASIR en la [UTAD](https://u-tad.com/)
 
-### Tengo experiencia en diferentes 
- [Link sobre mi curriculum](https://www.linkedin.com/in/pablo-ciancas-7b8a35294/)
+### Tengo experiencia en diferentes campos 
  - Catering el Senecal 
     - Servico mesa
-      : Fufufuf
-   
-     - Repartidor
-       : ghcjcv
+    - Repartidor
+ - Cuidador 
  
+ [Aqui dejo un link sobre mi curricumum completom](https://www.linkedin.com/in/pablo-ciancas-7b8a35294/)
  
- 
- 
-
+![Texto alternativo]([/ruta/a/la/imagen.jpg](https://i.blogs.es/5d9d03/3891532114_f6cb664e36/450_1000.webp))
 
 
 
